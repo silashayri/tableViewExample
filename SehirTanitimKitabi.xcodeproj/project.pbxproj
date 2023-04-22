@@ -13,6 +13,8 @@
 		C0503AAE29F1CEC20003AEAF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0503AAC29F1CEC20003AEAF /* Main.storyboard */; };
 		C0503AB029F1CEC30003AEAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0503AAF29F1CEC30003AEAF /* Assets.xcassets */; };
 		C0503AB329F1CEC30003AEAF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0503AB129F1CEC30003AEAF /* LaunchScreen.storyboard */; };
+		C0503ABB29F1D3A20003AEAF /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0503ABA29F1D3A20003AEAF /* DetailsViewController.swift */; };
+		C0503ABD29F31D090003AEAF /* Sehir.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0503ABC29F31D090003AEAF /* Sehir.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		C0503AAF29F1CEC30003AEAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C0503AB229F1CEC30003AEAF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C0503AB429F1CEC30003AEAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C0503ABA29F1D3A20003AEAF /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
+		C0503ABC29F31D090003AEAF /* Sehir.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sehir.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +63,12 @@
 				C0503AA629F1CEC20003AEAF /* AppDelegate.swift */,
 				C0503AA829F1CEC20003AEAF /* SceneDelegate.swift */,
 				C0503AAA29F1CEC20003AEAF /* ViewController.swift */,
+				C0503ABA29F1D3A20003AEAF /* DetailsViewController.swift */,
 				C0503AAC29F1CEC20003AEAF /* Main.storyboard */,
 				C0503AAF29F1CEC30003AEAF /* Assets.xcassets */,
 				C0503AB129F1CEC30003AEAF /* LaunchScreen.storyboard */,
 				C0503AB429F1CEC30003AEAF /* Info.plist */,
+				C0503ABC29F31D090003AEAF /* Sehir.swift */,
 			);
 			path = SehirTanitimKitabi;
 			sourceTree = "<group>";
@@ -141,6 +147,8 @@
 				C0503AAB29F1CEC20003AEAF /* ViewController.swift in Sources */,
 				C0503AA729F1CEC20003AEAF /* AppDelegate.swift in Sources */,
 				C0503AA929F1CEC20003AEAF /* SceneDelegate.swift in Sources */,
+				C0503ABB29F1D3A20003AEAF /* DetailsViewController.swift in Sources */,
+				C0503ABD29F31D090003AEAF /* Sehir.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
